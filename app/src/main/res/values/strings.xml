@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Clase01</string>
+    <string name="btnenviar">ENVIAR</string>
+    <string name="tvtitulo">LOGIN</string>
+    <string name="hint_user">Usuario...</string>
+    <string name="hint_pass">Password...</string>
+    <string name="bienvenido">Bienvenido... </string>
+    <string name="activity2">BIENVENIDO</string>
+    <string name="hint_cod">Codigo...</string>
+    <string name="hint_nombres">Nombres...</string>
+    <string name="hint_apellidos">Apellidos...</string>
+    <string name="hint_escuela">Escuela...</string>
+    <string-array name="opciones">
+        <item>Ingenieria Ambiental</item>
+        <item>Ingenieria de Sistemas</item>
+        <item>Ingenieria Civil</item>
+        <item>Ingenieria de Alimentos</item>
+        <item>Arquitectura</item>
+    </string-array>
+</resources>
